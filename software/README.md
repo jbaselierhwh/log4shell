@@ -294,6 +294,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | BMC Software  | ULTRAOPT/CICS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | ULTRAOPT/IMS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | zDetect  | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| B&R          | All Products | | Not vuln | |[source](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf) |
 | Brian Pangburn | SwingSet | < 4.0.6 | Fix | |[source](https://github.com/bpangburn/swingset/releases/tag/swingset-4.0.6) |
 | Broadcom      | Advanced Secure Gateway (ASG) | Unknown | Investigation | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
 | Broadcom      | BCAAA | Unknown | Investigation | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
